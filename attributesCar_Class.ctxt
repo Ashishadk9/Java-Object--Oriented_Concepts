@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=attributesCar_Class
+comment0.text=\n\ Write\ a\ description\ of\ class\ attributesCar_Class\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=make\ model\ year\ color
+comment1.target=attributesCar_Class(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getMake()
+comment3.params=
+comment3.target=java.lang.String\ getModel()
+comment4.params=
+comment4.target=java.lang.String\ getYear()
+comment5.params=
+comment5.target=java.lang.String\ getColor()
+comment6.params=
+comment6.target=void\ displayDetails()
+numComments=7
